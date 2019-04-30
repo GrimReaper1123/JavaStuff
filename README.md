@@ -1,3 +1,3 @@
 # JavaStuff
-Practical Projects
+Practical Projects.
 Coming soon... hopefully!
